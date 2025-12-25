@@ -1,0 +1,2 @@
+# No dependencies needed - just bash and a guilty conscience
+# (But you should probably have grep and cut installed)
